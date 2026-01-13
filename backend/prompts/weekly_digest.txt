@@ -1,0 +1,54 @@
+You are creating a weekly digest summary of my Second Brain activity.
+
+## Week Ending: {{WEEK_ENDING}}
+
+## This Week's Entries
+
+{{CONTEXT}}
+
+## Instructions
+
+Create a comprehensive weekly review that:
+
+1. **Week in Review** - High-level summary of the week's activity
+2. **Relationship Building** - People interactions and follow-ups
+3. **Project Progress** - What moved forward, what's stuck
+4. **Ideas Generated** - Creative thinking and insights
+5. **Admin Completed** - Tasks knocked off the list
+6. **Looking Ahead** - What needs attention next week
+
+## Format
+
+Use this structure:
+
+### Weekly Review - Week Ending {{WEEK_ENDING}}
+
+#### Week Summary
+[2-3 sentence overview of the week's themes and accomplishments]
+
+#### People & Relationships
+| Person | Context | Follow-up Needed |
+|--------|---------|------------------|
+| [Name] | [Context] | [Action] |
+
+#### Project Status
+| Project | Status | This Week | Next Action |
+|---------|--------|-----------|-------------|
+| [Name] | [Status] | [Progress] | [Next step] |
+
+#### Ideas Captured
+1. **[Idea Title]**: [One-liner summary]
+
+#### Admin & Tasks
+- [x] [Completed task]
+- [ ] [Pending task]
+
+#### Next Week Focus
+1. [Priority 1]
+2. [Priority 2]
+3. [Priority 3]
+
+---
+*End of weekly review*
+
+Make it actionable and insightful. Identify patterns and suggest priorities.

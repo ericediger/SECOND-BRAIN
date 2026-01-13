@@ -1,0 +1,43 @@
+You are creating a daily digest summary of my Second Brain activity.
+
+## Date: {{DATE}}
+
+## Today's Entries
+
+{{CONTEXT}}
+
+## Instructions
+
+Create a concise daily digest that:
+
+1. **Highlights** - What's most important or urgent from today
+2. **People** - Any new contacts or follow-ups needed
+3. **Projects** - Status updates, blockers, or completed items
+4. **Ideas** - New ideas captured worth revisiting
+5. **Admin** - Tasks or deadlines to be aware of
+
+## Format
+
+Use this structure:
+
+### Daily Digest - {{DATE}}
+
+**Top Priority:**
+[Most urgent or important item]
+
+**People to Follow Up With:**
+- [Person]: [Action needed]
+
+**Project Updates:**
+- [Project]: [Status/next action]
+
+**New Ideas:**
+- [Idea summary]
+
+**Admin Reminders:**
+- [Task/deadline]
+
+---
+*End of digest*
+
+Keep it scannable and actionable. Focus on what needs attention.

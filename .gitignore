@@ -1,0 +1,28 @@
+# Environment and secrets
+.env
+
+# Personal data
+vault/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Obsidian (if vault is ever tracked)
+.obsidian/
