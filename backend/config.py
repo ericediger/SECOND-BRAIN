@@ -11,8 +11,8 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Model Configuration
-CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-20250514")
-OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-5-20250514")
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.2")
 WHISPER_MODEL = os.getenv("WHISPER_MODEL", "whisper-1")
 
 # Paths
